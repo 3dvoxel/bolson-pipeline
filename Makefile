@@ -4,4 +4,4 @@ clean:
 	rm -f main
 
 main: main.cpp
-	g++ -o main main.cpp
+	g++ -c main.cpp -c goodbad.cpp
