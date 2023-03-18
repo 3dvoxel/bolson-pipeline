@@ -1,5 +1,7 @@
 #include <iostream>
 
+using namespace std;
+
 #define BUFFER_SIZE 20
 
 void bad()
@@ -20,7 +22,7 @@ void good()
 }
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    cout << "Hello, World!" << endl;
     
     bad();
     good();
