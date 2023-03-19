@@ -1,3 +1,2 @@
-void good(void);
-
-void bad(void);
+void good();
+void bad();

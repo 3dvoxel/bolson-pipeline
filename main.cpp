@@ -1,4 +1,5 @@
 #include <iostream>
+#include "goodbad.h"
 
 using namespace std;
 

@@ -1,5 +1,5 @@
 #include <iostream>
-#include <goodbad.h>
+#include "goodbad.h"
 
 using namespace std;
 
